@@ -32,6 +32,3 @@ Signals are generated using **Arduino Uno** and analyzed in **MATLAB**, with com
    - Analyze filtered signals and calculate attenuation.  
    - Generate Bode plots and compare experimental vs. theoretical responses.  
 
-
-
-## Repository Structure
